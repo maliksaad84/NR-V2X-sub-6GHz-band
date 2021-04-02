@@ -4,10 +4,10 @@
 To use this first download the latest release of [ns-3](https://www.nsnam.org "ns-3 Website") module for the simulation.
 
 This is ns-3 module for newradio as mentioned following
--inline with the 3gpp Rel 16, specifications; 
--this is soley built for research purpose. However, to include full features of 3gpp work is under consideration;
+- inline with the 3gpp Rel 16, specifications; 
+- this is soley built for research purpose. However, to include full features of 3gpp work is under consideration;
 - it includes full-stack operations including those from RLC and PDCP layers, thanks to the integration with the LTE module of ns-3
--this module studies the effect of NR-numerologies;
+- this module studies the effect of NR-numerologies;
 
 ## Getting Started ##
 
